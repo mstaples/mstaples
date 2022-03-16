@@ -2,7 +2,7 @@
 I am the *old* so there's far too much **About Me** to make a [universal sum up](#not-at-all-universal-sum-up) for every potential audience, so instead, enjoy a random collection of [media recommendations](#media-recommendations) and an invitation to [reach out](#how-to-reach-me) if you have questions... 
 
 ### Not at all universal sum up
-- 🤔 **Bio**: personally responsible sentient creature. big nerd energy.
+- 🤔 **Bio**: personally responsible sentient creature. Big nerd energy.
 - 🌱 **Backstory #1**: I've been writing code and teaching stuff for fun for nearly 3 decades.
 - 🤖 **Backstory #2**: I've been writing code and teaching stuff for monies for more like 2 decades.
 - 🐘 **Community fact #1**: I've been actively serving the PHP community for ~10 years.
