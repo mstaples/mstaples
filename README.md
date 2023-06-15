@@ -11,10 +11,6 @@ I am the *old* so there's far too much **About Me** to make a [universal sum up]
 - 🐐 **Goat fact**: I keep San Clemente Island goats (an endangered species) and we're registered as Chosen Family Herd.
 - ✨ **Special Interests**: neuroscience, history, education, technology, systems.
 
-### How to reach me
-- 💬 [@dead_lugosi](https://twitter.com/dead_lugosi) on the birb app
-- 📫 me at first name last name dot com
-
 ### Media recommendations
 _This is a currated but not definitive list. If you think I'd enjoy something based on what you see here, let me know! I'm always up to trade recommendations._ 🥰
 
