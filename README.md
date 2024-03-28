@@ -2,11 +2,13 @@
 I am the *old* so there's far too much **About Me** to make a [universal sum up](#not-at-all-universal-sum-up) for every potential audience, so instead, enjoy a random collection of [media recommendations](#media-recommendations) and an invitation to [reach out](#how-to-reach-me) if you have questions... 
 
 ### Not at all universal sum up
-- 🤔 **Bio**: personally responsible sentient creature. Big nerd energy.
-- 🌱 **Backstory #1**: I've been writing code and teaching stuff for fun for nearly 3 decades.
-- 🤖 **Backstory #2**: I've been writing code and teaching stuff for monies for more like 2 decades.
-- 🐘 **Community fact #1**: I've been actively serving the PHP community for ~10 years.
-- 🌈 **Community fact #2**: I've been actively serving underrepresented developer communities for ~ 7 years.
+- 🤔 **Bio**: Personally responsible sentient creature. Big nerd energy.
+- 🌱 **Backstory #1**: I've been writing code and teaching stuff for fun for more than 3 decades.
+- 🤖 **Backstory #2**: I've been writing code and teaching stuff for monies for more than 2 decades.
+- 🤖 **Backstory #3**: I've been managing teams on and off for fun and monies throughout those decades.
+- 🐘 **Community fact #1**: I've been an Open Source enthusiast for >30 years.
+- 🐘 **Community fact #1**: I've been serving the PHP community for >15 years.
+- 🌈 **Community fact #2**: I've been serving underrepresented developer communities for >10 years.
 - 📚 **Book fact**: I read a few hundred books a year, fiction and non fiction, from the silliest fluff to serious research.
 - 🐐 **Goat fact**: I keep San Clemente Island goats (an endangered species) and we're registered as Chosen Family Herd.
 - ✨ **Special Interests**: neuroscience, history, education, technology, systems.
