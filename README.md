@@ -1,5 +1,5 @@
 ## Hello!
-I am the *old* so there's far too much **About Me** to make a [universal sum up](#not-at-all-universal-sum-up) for every potential audience, so instead, enjoy a random collection of [media recommendations](#media-recommendations) and an invitation to [reach out](#how-to-reach-me) if you have questions... 
+There's far too much **About Me** to make a [universal sum up](#not-at-all-universal-sum-up) for every potential audience, so instead, enjoy a random collection of [media recommendations](#media-recommendations) and an invitation to [reach out](#how-to-reach-me) if you have questions... 
 
 ### Not at all universal sum up
 - 🤔 **Bio**: Personally responsible sentient creature. Big nerd energy.
