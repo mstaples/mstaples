@@ -1,5 +1,5 @@
 ## Hello!
-There's far too much **About Me** to make a [universal sum up](#not-at-all-universal-sum-up) for every potential audience, so instead, enjoy a random collection of [media recommendations](#media-recommendations) and an invitation to [reach out](#how-to-reach-me) if you have questions... 
+There's far too much **About Me** to make a [universal sum up](#not-at-all-universal-sum-up) for every potential audience, so instead, enjoy a [resume](https://docs.google.com/document/d/e/2PACX-1vSNMDh0lOLTC-nfFMxfY2WwltJOjepFnLlN1I5bmbnrVi482V8ueCmYWnYqskOmvckWg3jDe4zaKiU2/pub), a random collection of [media recommendations](#media-recommendations) and an invitation to [reach out](#how-to-reach-me) if you have questions... 
 
 ### Not at all universal sum up
 - 🤔 **Bio**: Personally responsible sentient creature. Big nerd energy.
